@@ -21,11 +21,12 @@ This project demonstrates how to capture and analyze network traffic using Wires
 🚀 Steps Performed
 
 1. Packet Capture
+   ![Wireshark Capture](wireshark-capture.png)
 
 Started capturing live network traffic using Wireshark on the active network interface.
 
 2. Filtering Traffic
-
+![TCP Analysis](tcp-analysis.png)
 Applied filters to focus on specific traffic:
 
 tcp
